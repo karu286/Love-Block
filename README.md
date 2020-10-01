@@ -76,7 +76,7 @@ truffle test
 ```
 As a user,
 So that I can demonstrate my commitment to another user,
-I would like to be able to create a request for their hand in marriage.
+I would like to be able to create a request for their hand in marriage.Click watch if you would like to get a notification for a new post.
 
 As a user,
 So that I can consider whether I am sure that I wish to go ahead,
@@ -88,7 +88,7 @@ I would like to see a confirmation of my marriage.
 
 As a user,
 So that I can show evidence of my marriage,
-I would like to receive a certificate once my marriage has been confirmed.
+I want to receive a certificate once my marriage has been confirmed.
 ```
 
 ## Tech Stack
